@@ -7,7 +7,7 @@ This book teaches just one lesson: You have infinite worth.
 
 ---
 
-Book Metadata: 
+**Metadata**
 | ISBN              | OCLC/WorldCat |
 |-------------------|---------------|
 | 13978-0-9777451-0-4 | 1010984915    |
@@ -16,16 +16,16 @@ Book Metadata:
 
 ---
 
-Read:
-| Chapter   | Title                        | Href |
-| --------- | ---------------------------- | ---- |
-| Chapter 1  | Freedom                      |      |
-| Chapter 2  | Earth                        |      |
-| Chapter 3  | Authority                    |      |
-| Chapter 4  | Culture                      |      |
-| Chapter 5  | Tactics                      |      |
-| Chapter 6  | Democracy                    |      |
-| Chapter 7  | Economics                    |      |
-| Chapter 8  | The Pattern of Liberty       |      |
-| Chapter 9  | End of Evil                  |      |
-| Appendix A | Glossary of the Culture of Evil |      |
+**Read**
+| Chapter   | Link                          |
+| --------- | ----------------------------- |
+| Chapter 1  | [Freedom](/1-freedom.md)     |
+| Chapter 2  | [Earth](/2-earth.md)         |
+| Chapter 3  | [Authority](/3-authority.md) |
+| Chapter 4  | [Culture](/4-culture.md)     |
+| Chapter 5  | [Tactics](/5-tactics.md)     |
+| Chapter 6  | [Democracy](/6-democracy.md) |
+| Chapter 7  | [Economics](/7-economics.md) |
+| Chapter 8  | [The Pattern of Liberty](/8-the-pattern-of-liberty.md)       |
+| Chapter 9  | [End of Evil](/9-end-of-evil.md)                  |
+| Appendix A | [Glossary of the Culture of Evil](/99-appendix-a-glossary-of-the-culture-of-evil.md) |
